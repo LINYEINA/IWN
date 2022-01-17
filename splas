@@ -1,0 +1,7 @@
+label splashscreen:
+
+    scene black with dissolve
+    pause (1)
+    show logo with dissolve
+    pause (2)
+    return
